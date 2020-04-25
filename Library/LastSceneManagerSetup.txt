@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/1_PlanarShadow/PlanarShadow.unity
+- path: Assets/3_GpuInstancing/GpuInstancing.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

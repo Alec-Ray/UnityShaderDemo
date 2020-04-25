@@ -65,6 +65,7 @@
     <Compile Include="Assets\2_ProjectorShadow\ProjectorShadow.cs" />
     <None Include="Assets\2_ProjectorShadow\ProjectorShadowReceive.shader" />
     <None Include="Assets\2_ProjectorShadow\ProjectorShadowCaster.shader" />
+    <None Include="Assets\3_GpuInstancing\GpuInstancing.shader" />
     <None Include="Assets\1_PlanarShadow\PlanarShadow.shader" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/UnityPractice/UnityShaderDemo/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
